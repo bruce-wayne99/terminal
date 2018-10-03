@@ -1,1 +1,1 @@
-OS-Linux Terminal shell
+OS-Linux Terminal
